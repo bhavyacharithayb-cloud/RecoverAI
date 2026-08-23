@@ -57,21 +57,28 @@ RecoverAI/
 ## 📸 Project Screenshots
 
 ### 📊 Recovery Dashboard
+### 📊 Recovery Dashboard
 
-![Recovery Dashboard](screenshots/recovery%20dashboard.png)
+![Recovery Dashboard](screenshots/recovery dashboard.png)
 
 ### 🎯 Priority Queue
 
-![Priority Queue](screenshots/priority%20queue.png)
+![Priority Queue](screenshots/priority queue.png)
+
+### 🤖 AI Recovery Agent
 
 ### 🟢 Low Priority
 
-![Low Priority](screenshots/LOW.png)
+![AI Recovery Agent Low](screenshots/LOW.png)
 
 ### 🟡 Medium Priority
 
-![Medium Priority](screenshots/MEDIUM.png)
+![AI Recovery Agent Medium](screenshots/MEDIUM.png)
 
 ### 🔴 High Priority
 
-![High Priority](screenshots/HIGH.png)
+![AI Recovery Agent High](screenshots/HIGH.png)
+
+### 📈 Recovery Analysis
+
+![Expected Recovery Analysis](screenshots/EXPECTED RECOVERY BY PAYMENT AND PROBABILITY DISTRIBUTION.png)
