@@ -54,4 +54,31 @@ RecoverAI/
 ├── recovery_model.pkl
 ├── requirements.txt
 └── README.md
+## 📸 Project Screenshots
+
+### 📊 Recovery Dashboard
+
+![Recovery Dashboard](screenshots/recovery_dashboard.png)
+
+### 🎯 Priority Queue
+
+![Priority Queue](screenshots/priority%20queue.png)
+
+### 🤖 AI Recovery Agent
+
+#### 🟢 Low Priority
+
+![AI Recovery Agent Low](screenshots/AI%20Recovery%20agent%201(LOW).png)
+
+#### 🟡 Medium Priority
+
+![AI Recovery Agent Medium](screenshots/AI%20Recovery%20agent%202(MEDIUM).png)
+
+#### 🔴 High Priority
+
+![AI Recovery Agent High](screenshots/AI%20Recovery%20agent%203(HIGH).png)
+
+### 📈 Recovery Analysis
+
+![Expected Recovery Analysis](screenshots/expected%20recovery%20by%20payment%20method%20and%20recovery%20pro...png)
 
